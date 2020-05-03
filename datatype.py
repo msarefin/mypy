@@ -26,3 +26,8 @@ print(type(var1))
 var6 = 13.3
 varOut = int(var6)+float(var5)
 print(varOut,type(varOut))
+
+print(100* "Hello \n")
+
+print(10*int(var6)+float(var5))
+print(100*str(str(var6)+"\n"))
